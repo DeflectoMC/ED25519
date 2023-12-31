@@ -1,10 +1,8 @@
+package ed25519;
 import java.math.BigInteger;
 import java.nio.ByteBuffer;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-
-import static javafx.scene.input.KeyCode.L;
-import static javafx.scene.input.KeyCode.Q;
 
 /* Written by k3d3
  * Released to the public domain
